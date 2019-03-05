@@ -1,1 +1,1 @@
-print("This is an exercise."
+print("This is an exercise.")
